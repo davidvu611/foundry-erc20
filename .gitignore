@@ -1,0 +1,16 @@
+# Libs
+lib/
+
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+/broadcast
+
+# Docs
+docs/
+
+# Others
+.env
+*.lock
